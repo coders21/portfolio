@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Solid Proto",
+    "description": "Steel Manufacturing Providers",
+    "image": "/projectImages/bike.png",
+    "image2": "/projectImages/parts.png",
+    "image3": "/projectImages/routes3.png",
+    "body": "During my immersive coding bootcamp experience, I collaborated with a team to develop a sophisticated project — worked under expert team of developers who leverages cutting-edge technologies like React and Django to craft bespoke web-enabled solutions for CNC machining, vacuum casting, sheet metal fabrication, injection molding, and more. With a focus on automotive, medical, electronics, aerospace, and robotics industries, our 2500m² facility and advanced machinery ensure high-quality results. Experience cost-effective solutions, expert engineering support, and seamless efficiency with fast quotes, delivery, and after-sale service. Let's discuss how our web-driven approach can elevate your projects.",
+    "technologies": ["Reactjs","Redux", "Django", "HTML", "CSS", "Bootstrap","Docker","Digital Ocean","Nginx","Gunicorn"],
+    "github": "https://github.com/mdyeates/bike-buddy",
+    "deployed": "https://www.solid-proto.com/",
+    "bgcolor": "var(--hl2-color)",
+    "id": "1"
+  },
+  {
+    "title": "Rewrify",
+    "description": "AI-powered text generation involves using models, such as OpenAI's GPT-3, to generate coherent and contextually relevant text",
+    "image": "/projectImages/weather.png",
+    "image2": "/projectImages/rewrify.png",
+    "image3": "/projectImages/weather3.png",
+    "technologies": ["JavaScript", "jQuery", "HTML", "CSS","Python","Django"],
+    "body": "Web application with the help of the machine learning technology helps user to transform AI generated text into human-like content",
+    "github": "https://github.com/mdyeates/weather-app",
+    "deployed": "https://www.rewrify.com/",
+    "bgcolor": "var(--hl-color)",
+    "id": "2"
+  },
+  {
+    "title": "Air Real Estate Platform",
+    "description": "Real Estate Platform",
+    "image": "/projectImages/team.png",
+    "image2": "/projectImages/list-real.png",
+    "image3": "/projectImages/team3.png",
+    "technologies": ["Reactjs", "Redux", "Python", "Django","React-Bootstrap","Docker"],
+    "body": "A real estate website build with Reactjs / Django Rest framework, it has complete backend features which includes:-> User Registration, User Activation (process on background using celery), User Login-> Add Agents that will list properties-> List properties-> Properties detail page I have used Reactjs / HTML / CSS / Bootstrap / Redux Toolkit for frontend and Django Rest Framework for backend powered with postgresql database, containerizing the whole webapp using docker and using reverse proxies nginx to serve react/django on same IP. ",
+    "github": "https://github.com/mdyeates/team-dashboard",
+    "deployed": "https://github.com/coders21/Real-Estate/tree/master",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Dopplio",
+    "description": "Personalized Video Ai Software",
+    "image": "/projectImages/quiz.png",
+    "image2": "/projectImages/video.png",
+    "image3": "/projectImages/quiz3.png",
+    "technologies": ["JavaScript", "HTML", "CSS","Reactjs","Django","Docker"],
+    "body": "In this project worked directly with the founder of the product, this product lets you personalize the video with generative ai solutions, i worked on the web part directly where i was given responsibility to fix ongoing issues and built new features.",
+    "github": "https://github.com/mdyeates/coding-quiz",
+    "deployed": "https://www.dopplio.com/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Nutrinos",
+    "description": "Nutrional Products Provider",
+    "image": "/projectImages/P1.png",
+    "image2": "/projectImages/f1.png",
+    "image3": "/projectImages/p13.png",
+    "body": "nutrinos is a web application designed to be a hub for best quality nutrional products.",
+    "technologies": ["PHP", "html", "Bootstrap", "CSS", "Wordpress"],
+    "github": "https://github.com/Jake-W95/P1",
+    "deployed": "https://nutrinos.org/",
+    "bgcolor": "#e47911",
+    "id": "5"
+  },
+
+  {
+    "title": "MLSGRID DATA SCRAPER",
+    "description": "Scraper for scraping various property data from MLS",
+    "image": "/projectImages/planner.png",
+    "image2": "/projectImages/detail-mlsgrid.png",
+    "image3": "/projectImages/planner3.png",
+    "technologies": ["Javascript", "Bootstrap", "HTML", "CSS","Django","BeautifulSoup","Python Requests","Scrapy"],
+    "body": "The aim of this project is to scrape data from various websites like TruePeopleSearch, Minneapolis.gov, redfin , mls grid and save it in backend, we also created admin panel to track the progress as the data we get in billions, we have a proper datatable through which you can search the downloaded data, filter by date, sort it also",
+    "github": "https://github.com/mdyeates/daily-planner",
+    "deployed": "#",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
